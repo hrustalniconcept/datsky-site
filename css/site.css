@@ -177,7 +177,7 @@ p{margin:0 0 1em}
 .sh-head{display:flex;flex-wrap:wrap;align-items:flex-end;gap:16px;justify-content:space-between;margin-bottom:20px}
 .sh-sum{display:flex;gap:10px;flex-wrap:wrap}
 .sh-sum span{background:var(--paper);border-radius:999px;padding:8px 14px;font-weight:700;font-size:14px;box-shadow:var(--sh)}
-.filters{position:sticky;top:68px;z-index:20;background:var(--bg);padding:12px 0;border-bottom:1px solid var(--line);margin-bottom:20px}
+.filters{position:sticky;top:0;z-index:20;background:var(--bg);padding:12px 0;border-bottom:1px solid var(--line);margin-bottom:20px}
 .filters .wrap{display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center}
 .fgroup{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
 .fgroup > b{font-size:13px;color:var(--ink-2);margin-right:2px}
